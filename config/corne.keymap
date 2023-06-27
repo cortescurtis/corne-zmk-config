@@ -76,7 +76,7 @@
 &none                  &kp Y                     &kp C                     &kp L                       &kp M      &kp K      &kp Z                   &kp F                      &kp U                  &kp COMMA                &kp SQT  &none
 &none  &homerow_mods LCTRL I  &homerow_mods LEFT_ALT S  &homerow_mods LEFT_GUI R  &homerow_mods LEFT_SHIFT T      &kp G      &kp P  &homerow_mods RSHIFT N  &homerow_mods RIGHT_GUI E  &homerow_mods RIGHT_ALT A  &homerow_mods RCTRL O  &none
 &none                  &kp Q                     &kp V                     &kp W                       &kp D      &kp J      &kp B                   &kp H                  &kp SLASH                    &kp DOT                  &kp X  &none
-                                                                           &none                       &mo 1  &kp SPACE    &kp RET                   &mo 2                      &none
+                                                                      &caps_word                       &mo 1  &kp SPACE    &kp RET                   &mo 2                    &kp ESC
             >;
         };
 
@@ -91,7 +91,7 @@
 &none  &kp N1  &kp N2   &kp N3   &kp N4   &kp N5      &kp N6    &kp N7   &kp N8     &kp N9     &kp N0  &none
 &none  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12    &kp LEFT  &kp DOWN   &kp UP  &kp RIGHT  &kp PG_UP  &none
 &none  &kp F3  &kp F4   &kp F5   &kp F6   &kp F7    &kp HOME  &kp BSPC  &kp DEL    &kp END  &kp PG_DN  &none
-                         &none   &trans   &kp F1      &kp F2     &mo 3    &none
+                        &trans   &trans   &kp F1      &kp F2     &mo 3   &trans
             >;
         };
 
@@ -106,7 +106,7 @@
 &none              &kp EXCL                &kp AT           &kp HASH       &kp DLLR  &kp PRCNT    &kp CARET   &kp AMPS  &kp LPAR  &kp RPAR  &kp ASTRK  &none
 &none  &kp LS(LG(NUMBER_5))  &kp LS(LG(NUMBER_4))  &kp LS(LG(SPACE))  &kp SEMICOLON  &kp GRAVE    &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT   &kp BSLH  &none
 &none             &kp LG(Z)             &kp LG(C)          &kp LG(V)      &kp COLON  &kp TILDE    &kp UNDER   &kp PLUS  &kp LBRC  &kp RBRC   &kp PIPE  &none
-                                                               &none          &mo 3    &kp TAB      &kp ESC     &trans     &none
+                                                              &trans          &mo 3    &kp TAB      &kp ESC     &trans    &trans
             >;
         };
 
